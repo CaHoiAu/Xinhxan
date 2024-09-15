@@ -49,6 +49,7 @@ int main(int argc, const char* argv[]) {
         }
         cout << "Tong cac phan so: ";
         kq.xuat();
+        cout << "Done!";
     }
     return 0;
 }
